@@ -2,21 +2,36 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
-# .gitignore
-venv/
 __pycache__/
-*.pyc
+.vscode/
+.idea/
+artifacts/*
+!artifacts/*.dvc
+notebook/*
+!notebook/*.dvc
+logs/
+.env
+.DS_Store
 *.pkl
 *.log
-artifacts/
-mlruns/
-dvc.lock
-.env
-*.h5
+.dvc/
+venv/
 
 # C extensions
 *.so
+
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.log
+venv/
+artifacts/
+logs/
+.dvc/
+mlruns/
+.env
+
 
 # Distribution / packaging
 .Python
