@@ -1,0 +1,5 @@
+outs:
+- md5: 08b9e93df3eb6ed432b2004d12e01d3b
+  size: 16749366
+  hash: md5
+  path: raw_imdb_data.npz

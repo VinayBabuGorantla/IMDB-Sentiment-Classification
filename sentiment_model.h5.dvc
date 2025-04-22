@@ -1,0 +1,5 @@
+outs:
+- md5: 2c04856923b0b88fdeb7acbbf6dc9d66
+  size: 16974320
+  hash: md5
+  path: sentiment_model.h5

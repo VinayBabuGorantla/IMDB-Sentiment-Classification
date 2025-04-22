@@ -1,0 +1,5 @@
+outs:
+- md5: 5a34ff95b28f7d6d17ed398f24bd28c5
+  size: 6530622
+  hash: md5
+  path: transformed_test.npz
