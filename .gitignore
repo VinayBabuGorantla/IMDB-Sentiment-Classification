@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+artifacts/
+mlruns/
+dvc.lock
+.env
+*.h5
+
 # C extensions
 *.so
 

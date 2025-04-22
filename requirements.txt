@@ -1,0 +1,28 @@
+# Core packages
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep learning & NLP
+tensorflow
+keras
+nltk
+
+# MLOps
+dvc
+mlflow
+
+# Web app
+Flask
+
+# Utilities
+joblib
+dill
+pyyaml
+
+# Testing
+pytest
+
+# Editable mode setup
+-e .
